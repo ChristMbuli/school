@@ -54,7 +54,7 @@ const Team = () => {
                 alt="photo membre"
               />
               <div class="member-content">
-                <h4>Daphenée Bouyendi</h4>
+                <h4>Ariel Aboli</h4>
                 <span>Content</span>
               </div>
             </div>
